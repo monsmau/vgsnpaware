@@ -14,5 +14,7 @@ To use VG SNP-Aware add the sequentialSearch parameter to the VG map command:
 
 The printMin parameter allows to reduce the size of output to only reads with one or more reference or alternative base of SNPs.
 
+The  VG  version is v1.29.0-44-ga74417fcb "Sospiro".
+
 
 
