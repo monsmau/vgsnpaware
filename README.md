@@ -1,1 +1,1 @@
-# vgsnpaware
+# VG SNP-Aware
