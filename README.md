@@ -26,7 +26,7 @@ The  VG  version is v1.29.0-44-ga74417fcb "Sospiro".
 
 
 "VG SNP-Aware is able to reduce the number of accesses to the graph by exploiting the sequential nature of nodes’ IDs. The results show that VG SNP-Aware is able to align
-reads to the graph with a speed-up of 40x with respect to the most popular tool VG. The precision of VG SNP-Aware is only slightly lower to that of VG." *under submission
+reads to the graph with a speed-up of 40x with respect to the most popular tool VG. The precision of VG SNP-Aware is only slightly lower to that of VG." - Paper under submission
 
 
 
