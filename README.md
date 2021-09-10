@@ -24,6 +24,8 @@ The printMin parameter allows to reduce the output size to only reads with one o
 
 The  VG  version is v1.29.0-44-ga74417fcb "Sospiro".
 
+# Getting help
+If you encounter bugs or have further questions or requests, you can raise an issue at the issue page. You can also contact Maurilio Monsù at maurilio.monsu@studenti.unipd.it
 
 # Citation
  M. Monsù, M. Comin, "Fast Alignment of Reads to a Variation Graph with Application to SNP Detection", under submission.
