@@ -26,7 +26,7 @@ The  VG  version is v1.29.0-44-ga74417fcb "Sospiro".
 
 
 # Citation
- M. Monsù, M. Comin, "Fast Alignment of Reads to a Variation Graph withApplication to SNP Detection", under submission.
+ M. Monsù, M. Comin, "Fast Alignment of Reads to a Variation Graph with Application to SNP Detection", under submission.
 
 
 
