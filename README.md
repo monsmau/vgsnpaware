@@ -11,7 +11,8 @@ reads to a variation graph with a speed of 40x w.r.t. VG and similar accuracy on
  
 
 VG SNP-Aware is a custom reimplementation of the map command of VG. 
-To run it, replace the mapping.cpp and map_main.cpp source files on the official project (https://github.com/vgteam/vg). 
+To run it, replace the mapper.cpp/mapper.hpp and map_main.cpp/map_main.hpp source files on the official project (https://github.com/vgteam/vg). 
+It is also important to include the base64.cpp and base64.h files on the original project. 
 
 VG SNP-Aware aims to reduce the mapping time used by VG by approximating the alignment, considering only exact matches and using a depth-limited like
 search on the graph. VG SNP-Aware is able to significantly reduce the time of the alignment phase. 
